@@ -5,10 +5,6 @@ declare global {
         React.HTMLAttributes<HTMLElement>,
         HTMLElement
       >;
-      "pinned-location-link": React.DetailedHTMLProps<
-        React.HTMLAttributes<HTMLElement>,
-        HTMLElement
-      >;
     }
   }
 }
