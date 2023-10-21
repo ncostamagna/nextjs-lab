@@ -4,11 +4,6 @@ export default function Nav() {
   return (
     <ul className="flex">
       <li className="mr-6">
-        <Link className="text-blue-500 hover:text-blue-800" href={"/"}>
-          home
-        </Link>
-      </li>
-      <li className="mr-6">
         <Link className="text-blue-500 hover:text-blue-800" href={"/user"}>
           user
         </Link>

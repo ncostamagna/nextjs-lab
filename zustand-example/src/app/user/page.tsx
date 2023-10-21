@@ -30,7 +30,6 @@ export default function User() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div>
         <Nav />
-        <p>User page</p>
 
         <form className="w-full max-w-lg" onSubmit={handleUser}>
           <div className="flex flex-wrap -mx-3 mb-6">
